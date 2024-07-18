@@ -1,0 +1,15 @@
+{
+  "name": "aufstand-server",
+  "version": "1.0.0",
+  "description": "server for aufstand multiplayer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pkg": "^5.8.1",
+    "ws": "^8.17.1"
+  }
+}
